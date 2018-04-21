@@ -1,0 +1,26 @@
+LF/HF RFID Field Detector BOM  
+  
+Part		Package		Description						Mouser Part Number  
+------------------------------------------------------------------------------------------------------------  
+LED1:		603		(RedLED/630nm/110mcd/60degVA/WaterClear/2mA/1.75V)*	604-APTD1608LSURCK  
+LED2:		603		(RedLED/630nm/110mcd/60degVA/WaterClear/2mA/1.75V)*	604-APTD1608LSURCK  
+  C1:		805		10nF Capacitor  
+  C2:		805		10nF Capacitor  
+  C3:		805		10nF Capacitor  
+  C4:		805		1nF Capacitor  
+  C5:		805		1nF Capacitor  
+  C6:		805		82pF Capacitor  
+  C7:		805		Additional tuning cap if needed  
+  C8:		805		Additional tuning cap if needed  
+  C8:		805		Additional tuning cap if needed  
+  
+Notes for those tuning their cards or using whatever capacitors they have "on hand"  
+  
+LF  
+C1-C2 are "wired" in series  
+C3-C5 are "wired" in parallel  
+  
+HF  
+C6-C9 are "wired" in parallel  
+  
+*Note: Low voltage/low current LEDs are required if substituting components.  
