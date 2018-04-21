@@ -7,7 +7,8 @@ RFID-Field-Detector is an open source PCB the size of a credit card that is capa
 Corey Harding, it is something neat to hand out to people, sort of like a business card.  
   
 ## How is it licensed?  
-Creative Commons Attribution-ShareAlike 3.0 Unported  
+The hardware itself(Fritzing File and Gerber) is licensed under Creative Commons Attribution-ShareAlike 3.0 Unported  
+The SVG files fall under the MIT license  
   
 ## How can I modify it?  
 Use the simple Fritzing PCB design software and modify whatever you wish provided you comply with the license stated above.  
