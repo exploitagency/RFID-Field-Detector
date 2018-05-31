@@ -15,3 +15,8 @@ Use the simple Fritzing PCB design software and modify whatever you wish provide
   
 ## Will you help me?  
 Maybe, but make sure you try first.  
+  
+## Is it available for sale?  
+I have redesigned it as a commercial product and it is being manufactured and distributed by April Brother.  
+Cost is sub $10.00 USD.  
+Tindie: https://www.tindie.com/products/aprbrother/rfid-field-detector/  
